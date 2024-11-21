@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Oracle4me.oracle4me" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Aku+NurMuhammad+Kevin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fullstack+Dev!;Bug+;Hunter!;" />
 </h1>
 
 <h3 align="center">Seseorang yang ingin menjadi Fullstack Dev dan sekaligus Bug Hunter</h3>
