@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Aku seorang mahasiswa/freelance 
+ 🔭 Bug Hunter / Fullstack Dev 
  
  🌱 Saat ini sedang belajar **NextJS, Docker, Bug Hunter**
 
