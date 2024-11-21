@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 Kontribusi 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Oracle4me/oracle4me/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
