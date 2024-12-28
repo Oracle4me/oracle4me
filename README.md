@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fullstack+Dev!;" />
 </h1>
 
-<h3 align="center">Hardwork Pays Off, Someday</h3>
+<h3 align="center">Hardwork Pays Off</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Bug Hunter / Fullstack Dev 
+ 🔭 Fullstack Dev 
  
- 🌱 Saat ini sedang belajar **NextJS, Docker, Bug Hunter**
+ 🌱 Fokus Utama **NextJS, ReactJS, ExpressJS, NodeJS**
 
  </div>
  
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Bahasa Pemrograman dan Frameworks⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Oracle4me&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
