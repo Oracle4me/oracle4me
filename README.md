@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 Fullstack Dev 
+  Fullstack Dev 
  
- 🌱 Fokus Utama **NextJS, ReactJS, ExpressJS, NodeJS**
+  Fokus Utama **NextJS, ReactJS, ExpressJS, NodeJS**
 
  </div>
  
@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Bahasa Pemrograman dan Frameworks⚒️</h2>
+<h2 align="center">Bahasa Pemrograman dan Frameworks</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
@@ -41,7 +41,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 Kontribusi 🐍</h2>
+  <h2>Kontribusi</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/Oracle4me/oracle4me/blob/output/github-contribution-grid-snake.svg" />
   
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Status ⚡</h2>
+<h2 align="center">Status</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Oracle4me&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
