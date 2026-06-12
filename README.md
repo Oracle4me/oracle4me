@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Oracle4me.oracle4me" />
 
-<div align="center"> <h2>Kontribusi</h2> <br> <img alt="snake eating my contributions" src="https://github.com/Oracle4me/oracle4me/blob/output/github-contribution-grid-snake.svg" /> <br/><br/><br/> </div>
+<div align="center"> 
+  <h2>Kontribusi</h2> 
+  <img alt="snake eating my contributions" src="https://github.com/Oracle4me/oracle4me/blob/output/github-contribution-grid-snake.svg" />  
+</div>
 
 <table align="center">
   <tr>
