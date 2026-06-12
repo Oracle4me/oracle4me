@@ -3,9 +3,8 @@
 <div align="center"> 
   <h2>Kontribusi</h2> 
   <img alt="snake eating my contributions" src="https://github.com/Oracle4me/oracle4me/blob/output/github-contribution-grid-snake.svg" />  
-</div>
 
-<table align="center">
+  <table align="center">
   <tr>
     <td align="center" width="50%">
       <img 
@@ -33,3 +32,6 @@
     </td>
   </tr>
 </table>
+</div>
+
+
