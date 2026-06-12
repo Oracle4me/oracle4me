@@ -1,11 +1,6 @@
-<h1 align="center">Nur Muhammad Kevin</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Oracle4me.oracle4me" />
 
-<br/>
-
-<p align="center">
-  <img src="https://github.com/Oracle4me/oracle4me/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
-</p>
-
+<div align="center"> <h2>Kontribusi</h2> <br> <img alt="snake eating my contributions" src="https://github.com/Oracle4me/oracle4me/blob/output/github-contribution-grid-snake.svg" /> <br/><br/><br/> </div>
 <br/>
 
 <p align="center">
